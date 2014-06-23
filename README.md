@@ -1,4 +1,5 @@
 FirstRepo
 =========
 
-My first application
+My first application.
+My cat is sleeping.
